@@ -1,0 +1,3 @@
+public class InvalidPositionTableException extends RuntimeException{
+
+}
